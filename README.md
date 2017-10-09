@@ -1,7 +1,6 @@
 UI组件地址汇总
 ---
- - [Ant Design](https://github.com/ant-design) 
-    - 官网地址 [Ant Design](https://ant.design/index-cn)
+ - [Ant Design](https://github.com/ant-design)  [官网地址](https://ant.design/index-cn)
  - [Element](https://github.com/elemefe) 
     - 官网地址 [Element](http://element.eleme.io/#/zh-CN)
  - [Mint UI](https://github.com/elemefe) 
