@@ -2,7 +2,6 @@ UI组件地址汇总
 ---
 
  - [Element](https://github.com/ElemeFE/element) 
-     + demo : [http://element.eleme.io/#/zh-CN/component/layout](http://element.eleme.io/#/zh-CN/component/layout)
  - [Ant Design](https://github.com/ant-design) 
  - [Mint UI](https://github.com/ElemeFE/mint-ui) 
  - [Vux](https://github.com/airyland/vux) 
@@ -19,3 +18,15 @@ UI组件地址汇总
  - [Iview](https://github.com/iview/iview) 
  - [SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) 
  - [Weex](https://github.com/alibaba/weex) 
+ - [Vue-strap](https://github.com/yuche/vue-strap) 
+ - [Vue-admin](https://github.com/vue-bulma/vue-admin) 
+ - [Keen-UI](https://github.com/JosephusPaye/Keen-UI) 
+ - [Vonic](https://github.com/wangdahoo/vonic) 
+ - [Vue-material](https://github.com/vuematerial/vue-material) 
+ - [Muse-UI](https://github.com/museui/muse-ui) 
+ - [Vuetify](https://github.com/vuetifyjs/vuetify) 
+ - [Jquery-Ui](https://github.com/jquery/jquery-ui) 
+ - [Layui](https://github.com/sentsin/layui) 
+ - [react-native-elements](https://github.com/react-native-training/react-native-elements) 
+ - [Frozen-Ui](https://github.com/frozenui/frozenui) 
+ - [Flat-Ui](https://github.com/designmodo/Flat-UI) 
